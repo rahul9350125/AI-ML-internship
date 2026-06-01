@@ -1,12 +1,28 @@
 ## Project Description
 
-* Imported and analyzed the dataset using Python libraries.
-* Learned how to identify and handle null/missing values in the dataset.
-* Applied encoding techniques to convert categorical data into numerical form.
-* Performed numericalization and standardization of numerical features.
-* Detected outliers using statistical and visualization methods.
-* Removed or handled outliers to improve data quality.
-* Used Pandas, NumPy, and Scikit-learn for data preprocessing tasks.
-* Implemented the complete project using Google Colab.
-* Improved understanding of Machine Learning data preprocessing techniques.
-* Gained practical knowledge of feature engineering and dataset cleaning.
+This project focuses on performing Exploratory Data Analysis (EDA) to understand the dataset, discover patterns, handle missing values, detect outliers, and extract meaningful insights. EDA is an essential step in the data science workflow that helps in preparing data for machine learning models.
+
+# Objectives
+Understand the structure and nature of the dataset
+Identify patterns, trends, and relationships in the data
+Detect and handle missing values and outliers
+Analyze statistical distributions of variables
+Perform feature-level analysis for better understanding
+# What I Learned
+Importance of EDA in data science and machine learning
+How to analyze statistical distributions
+Techniques to handle missing data
+Methods to detect and remove outliers
+How to extract insights from data patterns and trends
+Feature inference and its role in data understanding
+# EDA Techniques Used
+Data inspection and summary statistics
+Handling missing values
+Outlier detection and treatment
+Univariate analysis (single variable analysis)
+Bivariate/multivariate analysis (relationships between variables)
+Data visualization techniques such as:
+Histograms
+Boxplots
+Scatter plots
+Distribution plots
