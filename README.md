@@ -3,8 +3,8 @@
 This project focuses on performing Exploratory Data Analysis (EDA) to understand the dataset, discover patterns, handle missing values, detect outliers, and extract meaningful insights. EDA is an essential step in the data science workflow that helps in preparing data for machine learning models.
 
 # Objectives
-Understand the structure and nature of the dataset
-Identify patterns, trends, and relationships in the data
+* Understand the structure and nature of the dataset
+* Identify patterns, trends, and relationships in the data
 Detect and handle missing values and outliers
 Analyze statistical distributions of variables
 Perform feature-level analysis for better understanding
