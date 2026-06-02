@@ -1,28 +1,39 @@
-## Project Description
+# Project Overview
 
-This project focuses on performing Exploratory Data Analysis (EDA) to understand the dataset, discover patterns, handle missing values, detect outliers, and extract meaningful insights. EDA is an essential step in the data science workflow that helps in preparing data for machine learning models.
+This project implements a Linear Regression model to predict house prices based on housing features. The model is trained and evaluated using the Scikit-learn library, providing insights into the relationship between house characteristics and their market prices.
 
-# Objectives
-* Understand the structure and nature of the dataset
-* Identify patterns, trends, and relationships in the data
-* Detect and handle missing values and outliers
-* Analyze statistical distributions of variables
-* Perform feature-level analysis for better understanding
-# What I Learned
-* Importance of EDA in data science and machine learning
-* How to analyze statistical distributions
-* Techniques to handle missing data
-* Methods to detect and remove outliers
-* How to extract insights from data patterns and trends
-* Feature inference and its role in data understanding
-# EDA Techniques Used
-* Data inspection and summary statistics
-* Handling missing values
-* Outlier detection and treatment
-* Univariate analysis (single variable analysis)
-* Bivariate/multivariate analysis (relationships between variables)
-* Data visualization techniques such as:
-- Histograms
-- Boxplots
-Scatter plots
-Distribution plots
+# Features
+* Data exploration and preprocessing
+* Train-test data splitting
+* Linear Regression model training
+* House price prediction
+* Model evaluation using:
+* Mean Absolute Error (MAE)
+* Mean Squared Error (MSE)
+* R² Score
+* Regression line visualization
+* Analysis of model coefficients and intercept
+#  Workflow
+* Load and explore the house price dataset.
+* Select relevant features and target variable.
+* Split data into training and testing sets.
+* Train a Linear Regression model.
+* Predict house prices on test data.
+* Evaluate model performance using MAE, MSE, and R² Score.
+* Visualize the regression line and predictions.
+* Interpret model coefficients and intercept.
+# Evaluation Metrics
+* MAE (Mean Absolute Error): Measures average prediction error.
+* MSE (Mean Squared Error): Measures average squared prediction error.
+* R² Score: Indicates how well the model explains the variance in house prices.
+  # Learning Outcomes
+* Understanding train-test splitting techniques.
+* Building and training Linear Regression models.
+* Evaluating regression model performance.
+* Visualizing regression results.
+* Interpreting coefficients and intercept values for predictive analysis.
+# Output
+* Predicted house prices
+* Regression line plot
+* Performance metrics (MAE, MSE, R² Score)
+* Model coefficients and intercept values
